@@ -1,0 +1,30 @@
+D:\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+D:\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+D:\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+D:\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+D:\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+D:\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+D:\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe.licenses
+D:\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.串口.resources
+D:\old fisk\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+D:\old fisk\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+D:\old fisk\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+D:\old fisk\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+D:\old fisk\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+D:\old fisk\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+D:\old fisk\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+D:\old fisk\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.串口.resources
+D:\old fisk\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+D:\old fisk\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe.licenses
+D:\old fisk\Projects\WindowsFormsApplication10 - 副本\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+D:\old fisk\Projects\WindowsFormsApplication10 - 副本\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+D:\old fisk\Projects\WindowsFormsApplication10 - 副本\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+D:\old fisk\Projects\WindowsFormsApplication10 - 副本\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+D:\old fisk\Projects\WindowsFormsApplication10 - 副本\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+D:\old fisk\Projects\WindowsFormsApplication10 - 副本\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+D:\old fisk\Projects\WindowsFormsApplication10 - 副本\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe.licenses
+D:\old fisk\Projects\WindowsFormsApplication10 - 副本\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+D:\old fisk\Projects\WindowsFormsApplication10 - 副本\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+D:\old fisk\Projects\WindowsFormsApplication10 - 副本\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.页面置换.resources
